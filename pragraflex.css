@@ -1,0 +1,44 @@
+.headingbox{
+	background-image:url(../images/pragraflex/SlZOq6v5mj.png)
+}
+
+.flexsummary{
+	font-size: 0.8rem;
+    letter-spacing: 2px;
+    text-align: left;
+}
+@media (min-width: 768px){
+.flexsummary{
+    width: 70%;
+}}
+
+.gradcards{
+width: 18rem; 
+box-shadow:none;
+background-color:transparent;
+}
+
+.demorequest{
+	width: max-content;
+    height: min-content;
+	position: sticky;
+  bottom: 1rem;
+  align-self: flex-end;
+   float:right;
+}
+.form-control {
+    border: 1px solid #bbbbbd;
+    height: 35px;
+	font-size: 12px;
+	color:gray;
+}
+.form-group {
+    margin-bottom: 0.5rem;
+}
+#close {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+	width: min-content;
+}
