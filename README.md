@@ -21,7 +21,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
-  <link rel="stylesheet" href="css/pragra.css">
+  <link rel="stylesheet" href="css/XXX-COMPANY.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700&amp;display=swap">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
 		
@@ -151,8 +151,8 @@ function myFunction() {
       <!-- Content -->
 	  <br>
 	  <br><br><br>
-      <h1><b>FEATURED PROGRAMS AT PRAGRA</b></h1>
-      <center><p><b>Pragra combines digital age learning solutions with traditional <br>delivery, with hands on and on-job assignments <br> to give you right experience.</b></p></center>
+      <h1><b>FEATURED PROGRAMS AT xxx company</b></h1>
+      <center><p><b>XXX-COMPANY combines digital age learning solutions with traditional <br>delivery, with hands on and on-job assignments <br> to give you right experience.</b></p></center>
 
 	  
 		<div class="card-deck">
@@ -191,8 +191,8 @@ function myFunction() {
 <br>
 <div class="container">
 <div class="jumbotron2"  >
-	<center>	<h1 style="color:black">PRAGRA  ADVANTAGE</h1>
-	<p>Pragra combines Digital age learning solutions with traditinal delivery <br> with hands on and on-job assignments to get</p></center>
+	<center>	<h1 style="color:black">XXX-COMPANY  ADVANTAGE</h1>
+	<p>XXX-COMPANY combines Digital age learning solutions with traditinal delivery <br> with hands on and on-job assignments to get</p></center>
 	    <div class="container">
 			<div class="row">
 			<div class="col-2">
@@ -245,7 +245,7 @@ function myFunction() {
 			
 			<div class="col-lg-7 col-md-12 ">
 			<center>
-			<img  src="img/pRAGRA.png" alt="Card image cap">
+			<img  src="img/XXX-COMPANY.png" alt="Card image cap">
 				</center>
 			</div>
 			
@@ -440,14 +440,14 @@ function myFunction() {
 </div>
 <div class="container">
 <center>
-<h2 style="color:black"> At Pragra we take your career seriously, we will ensure that our team put every effort on this planet to start your job in choiceof ypour technology, if we cannot 
+<h2 style="color:black"> At XXX-COMPANY we take your career seriously, we will ensure that our team put every effort on this planet to start your job in choiceof ypour technology, if we cannot 
 get you job we will refund your tuition*.</h2></center>
 </div>
 <br><br>
 <br><br>
 <!------ partners --->
 <div class="container" style="background-color:#80808026">
-<center><p>Pragra Graduates Land careers they love at Canadas's<br> most innovative companies.<b>MEET OUR ALLUMINI</b></p></center><br>
+<center><p>XXX-COMPANY Graduates Land careers they love at Canadas's<br> most innovative companies.<b>MEET OUR ALLUMINI</b></p></center><br>
 
 	<div class="row">
 	<div class="col-sm-2 my-4">
@@ -599,7 +599,7 @@ get you job we will refund your tuition*.</h2></center>
         <ul style="list-style-type:none;"><li>
           <i class="fas fa-home mr-3"></i>200 Matheson Blvd W, Unit-202, Mississauga,ON</li>
         <li>
-          <i class="fas fa-envelope mr-3"></i> Info@pragra.co</li>
+          <i class="fas fa-envelope mr-3"></i> Info@XXX-COMPANY.co</li>
         <li>
           <i class="fas fa-phone mr-3"></i> 1866-990-2091</li>
         <li>
